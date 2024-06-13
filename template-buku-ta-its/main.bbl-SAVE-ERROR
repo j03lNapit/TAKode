@@ -1,0 +1,999 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{akbulut2017deep}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f5b47cefc1ecde66ebd65c0a434c27f8}{%
+           family={Akbulut},
+           familyi={A\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a57bee5df4f6eb6ca9e9470fdf5db50}{%
+           family={Şengür},
+           familyi={Ş\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=407d0f05f0179f3e95a2cbceb758fd30}{%
+           family={Budak},
+           familyi={B\bibinitperiod},
+           given={Ü},
+           giveni={Ü\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=822535912b1579fe18a67f5869faf5a2}{%
+           family={Ekici},
+           familyi={E\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aafd5e35bf932da466ca4a86f5949221}
+      \strng{fullhash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{bibnamehash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{authorbibnamehash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{authornamehash}{aafd5e35bf932da466ca4a86f5949221}
+      \strng{authorfullhash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 International Artificial Intelligence and Data Processing Symposium (IDAP)}
+      \field{title}{Deep learning based face liveness detection in videos}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IDAP.2017.8090202
+      \endverb
+    \endentry
+    \entry{chandiwala2021driver}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=520d0ab5515d0c0f1f75bfe636e43e2c}{%
+           family={Chandiwala},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c371da608bd85e3a0f0b53d2297d45}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{fullhash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{bibnamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authorbibnamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authornamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authorfullhash}{6e1622297cf772c9adb85fc2f673a42e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 7th International Conference on Advanced Computing and Communication Systems (ICACCS)}
+      \field{title}{Driver’s real-time Drowsiness Detection using Adaptable Eye Aspect Ratio and Smart Alarm System}
+      \field{year}{2021}
+      \field{pages}{1350\bibrangedash 1355}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICACCS51430.2021.9441756
+      \endverb
+    \endentry
+    \entry{10270738}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ddc1e4faf59edc7d7675723be4296244}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05edb8a94ec5138c0c48591d67c83166}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{fullhash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{bibnamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authorbibnamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authornamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authorfullhash}{04c5c92b59d900042873f6cc9dc226fe}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2023 8th International Conference on Image, Vision and Computing (ICIVC)}
+      \field{title}{Eye State Detection Based on EAR and HOG PSO-Support Vector Machine}
+      \field{year}{2023}
+      \field{pages}{414\bibrangedash 418}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICIVC58118.2023.10270738
+      \endverb
+      \keyw{Support vector machine classification;Ear;Feature extraction;Fatigue;Real-time systems;Cognition;Classification algorithms;fatigue detection;eye condition detection;ear;hog characteristics;particle swarm optimization algorithm;support vector machine}
+    \endentry
+    \entry{gopalan2018facial}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=54c3347cdbd33f40c1f399d7342b59de}{%
+           family={Gopalan},
+           familyi={G\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f58abe4b17514c6ab20160ae3f9005e8}{%
+           family={Bellamkonda},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d97036e812f950a8a2afdc354244c3}{%
+           family={Saran\bibnamedelima Chaitanya},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9947b4c084fd58eba9ef0cad6798585}
+      \strng{fullhash}{18381329ec35658bc85c880084d605c4}
+      \strng{bibnamehash}{18381329ec35658bc85c880084d605c4}
+      \strng{authorbibnamehash}{18381329ec35658bc85c880084d605c4}
+      \strng{authornamehash}{f9947b4c084fd58eba9ef0cad6798585}
+      \strng{authorfullhash}{18381329ec35658bc85c880084d605c4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 International Conference on Inventive Research in Computing Applications (ICIRCA)}
+      \field{title}{Facial Expression Recognition Using Geometric Landmark Points and Convolutional Neural Networks}
+      \field{year}{2018}
+      \field{pages}{1149\bibrangedash 1153}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICIRCA.2018.8597226
+      \endverb
+    \endentry
+    \entry{johnston2018review}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebe17af4d7e8fef59cd11a600b127a46}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d209f5c17fba883071d42a8b9cc72f6}{%
+           family={Chazal},
+           familyi={C\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{fullhash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{bibnamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authorbibnamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authornamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authorfullhash}{13a1a8496b4905adf0d04645549d0cb8}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J Image Video Proc}
+      \field{title}{A review of image-based automatic facial landmark identification techniques}
+      \field{volume}{86}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1186/s13640-018-0324-4
+      \endverb
+    \endentry
+    \entry{lang2008study}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2cb97e1d6d860e3a66cf8c478f6006e}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e7bbf0d2a2b478896de68e62a4f508f}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{fullhash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{bibnamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authorbibnamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authornamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authorfullhash}{c192ddad1078bbf3f82b37386ae122e1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2008 International Conference on Computer Science and Software Engineering}
+      \field{title}{The Study of Driver Fatigue Monitor Algorithm Combined PERCLOS and AECS}
+      \field{year}{2008}
+      \field{pages}{349\bibrangedash 352}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/CSSE.2008.771
+      \endverb
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=030f27faa9c5bd0041804c9a3e10ca4b}{%
+           family={{Liu}},
+           familyi={L\bibinitperiod},
+           given={Guangyu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ba98b57fe1f95279a7b276f87e11088}{%
+           family={{Liu}},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de5eaa5a49bfbf9fa53052763eb59027}{%
+           family={{Dai}},
+           familyi={D\bibinitperiod},
+           given={Licao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{691869fa1c2d9c5b1aa963f22c1ff2ed}
+      \strng{fullhash}{32126a952344520f5331f28b76fafc46}
+      \strng{bibnamehash}{32126a952344520f5331f28b76fafc46}
+      \strng{authorbibnamehash}{32126a952344520f5331f28b76fafc46}
+      \strng{authornamehash}{691869fa1c2d9c5b1aa963f22c1ff2ed}
+      \strng{authorfullhash}{32126a952344520f5331f28b76fafc46}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 2nd International Conference on Electrical Engineering Big Data and Algorithms (EEBDA)}
+      \field{title}{Research on the fatigue detection method of operators in digital main control rooms of nuclear power plants based on multi-feature fusion}
+      \field{year}{2023}
+      \field{pages}{1459\bibrangedash 1463}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEBDA56825.2023.10090719
+      \endverb
+    \endentry
+    \entry{schubach2017imbalance}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4669bb21dd60f00ca338173aa04253f0}{%
+           family={Schubach},
+           familyi={S\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52f8dac550a77b9d33fca02010b8608b}{%
+           family={Re},
+           familyi={R\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13008ba222d50f3b27a60dd519e7a34b}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34cdcf96da4ace6a5d898a6826f304fc}{%
+           family={Valentini},
+           familyi={V\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc747242d69b35766e368c5845165e88}
+      \strng{fullhash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{bibnamehash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{authorbibnamehash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{authornamehash}{cc747242d69b35766e368c5845165e88}
+      \strng{authorfullhash}{d2cd125105792246e67d10775e9e02c1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Imbalance-Aware Machine Learning for Predicting Rare and Common Disease-Associated Non-Coding Variants}
+      \field{volume}{7}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1038/s41598-017-03011-5
+      \endverb
+    \endentry
+    \entry{6907440}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=53a5259a53d3b50e732a5e266c269e35}{%
+           family={Tadesse},
+           familyi={T\bibinitperiod},
+           given={Eyosiyas},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=282bbcf6257efe7edc6061b51a954743}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Weihua},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11964d44883b57444bb39e6c2cee7ad3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Meiqin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e95d413c7b3cccb7d847119ec9c521da}
+      \strng{fullhash}{b64401777d981af558bdf095b20bdea2}
+      \strng{bibnamehash}{b64401777d981af558bdf095b20bdea2}
+      \strng{authorbibnamehash}{b64401777d981af558bdf095b20bdea2}
+      \strng{authornamehash}{e95d413c7b3cccb7d847119ec9c521da}
+      \strng{authorfullhash}{b64401777d981af558bdf095b20bdea2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2014 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Driver drowsiness detection through HMM based dynamic modeling}
+      \field{year}{2014}
+      \field{pages}{4003\bibrangedash 4008}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICRA.2014.6907440
+      \endverb
+      \keyw{Hidden Markov models;Vehicles;Feature extraction;Accuracy;Support vector machines;Face;Heuristic algorithms;Drowsiness detection;facial expression;SVM;HMM}
+    \endentry
+    \entry{tan2018research}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=33376762c80dfed868365183d1e67cfd}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c67619924cd2ecb1e99e1432d09d6dbd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2f2d194c7b103a076a2f3e487e72afd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={G-F},
+           giveni={G\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fd424bf1758b9d35445b538f43dda02}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={G-Z},
+           giveni={G\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2c4aac1430ffcd2403359c5e88dba15}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={J-Y},
+           giveni={J\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232ff2a57e1603642f38dec7224efa97}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60a35715532e04f00b15a8ef7e7149a4}
+      \strng{fullhash}{16327479b15944fcd960c7badf91387a}
+      \strng{bibnamehash}{16327479b15944fcd960c7badf91387a}
+      \strng{authorbibnamehash}{16327479b15944fcd960c7badf91387a}
+      \strng{authornamehash}{60a35715532e04f00b15a8ef7e7149a4}
+      \strng{authorfullhash}{16327479b15944fcd960c7badf91387a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 International Conference on Machine Learning and Cybernetics (ICMLC)}
+      \field{title}{Research On Image Segmentation Based On Support Vector Machine}
+      \field{year}{2018}
+      \field{pages}{650\bibrangedash 655}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICMLC.2018.8526926
+      \endverb
+    \endentry
+    \entry{7545182}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=11012da43e7ab6e4ceab201fc1a0e56e}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jun-Juh},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a46f44cb9d2cc472a0f2bc36993cd4d0}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Hang-Hong},
+           giveni={H\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af3592991b85670b059a5b220bc4c4ff}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Ying-Fan},
+           giveni={Y\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=946ee3d389cf1f743414cf63599015fa}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Teh-Lu},
+           giveni={T\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{82bf970b8e4373f74e49a98008428d58}
+      \strng{fullhash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{bibnamehash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{authorbibnamehash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{authornamehash}{82bf970b8e4373f74e49a98008428d58}
+      \strng{authorfullhash}{1a53194346e30a7bdb28925e049e79bc}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2016 International Symposium on Computer, Consumer and Control (IS3C)}
+      \field{title}{Real-Time Driver Drowsiness Detection System Based on PERCLOS and Grayscale Image Processing}
+      \field{year}{2016}
+      \field{pages}{243\bibrangedash 246}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IS3C.2016.72
+      \endverb
+      \keyw{Vehicles;Fatigue;Face;Gray-scale;Image edge detection;Data models;Real-time systems;Fatigue model;Template matching;Grayscale image processing;PERCLOS}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{akbulut2017deep}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f5b47cefc1ecde66ebd65c0a434c27f8}{%
+           family={Akbulut},
+           familyi={A\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a57bee5df4f6eb6ca9e9470fdf5db50}{%
+           family={Şengür},
+           familyi={Ş\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=407d0f05f0179f3e95a2cbceb758fd30}{%
+           family={Budak},
+           familyi={B\bibinitperiod},
+           given={Ü},
+           giveni={Ü\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=822535912b1579fe18a67f5869faf5a2}{%
+           family={Ekici},
+           familyi={E\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aafd5e35bf932da466ca4a86f5949221}
+      \strng{fullhash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{bibnamehash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{authorbibnamehash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \strng{authornamehash}{aafd5e35bf932da466ca4a86f5949221}
+      \strng{authorfullhash}{2ca4b65a1a9aef2581684f13c6d58315}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 International Artificial Intelligence and Data Processing Symposium (IDAP)}
+      \field{title}{Deep learning based face liveness detection in videos}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IDAP.2017.8090202
+      \endverb
+    \endentry
+    \entry{chandiwala2021driver}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=520d0ab5515d0c0f1f75bfe636e43e2c}{%
+           family={Chandiwala},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c371da608bd85e3a0f0b53d2297d45}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{fullhash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{bibnamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authorbibnamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authornamehash}{6e1622297cf772c9adb85fc2f673a42e}
+      \strng{authorfullhash}{6e1622297cf772c9adb85fc2f673a42e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 7th International Conference on Advanced Computing and Communication Systems (ICACCS)}
+      \field{title}{Driver’s real-time Drowsiness Detection using Adaptable Eye Aspect Ratio and Smart Alarm System}
+      \field{year}{2021}
+      \field{pages}{1350\bibrangedash 1355}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICACCS51430.2021.9441756
+      \endverb
+    \endentry
+    \entry{10270738}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ddc1e4faf59edc7d7675723be4296244}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05edb8a94ec5138c0c48591d67c83166}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{fullhash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{bibnamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authorbibnamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authornamehash}{04c5c92b59d900042873f6cc9dc226fe}
+      \strng{authorfullhash}{04c5c92b59d900042873f6cc9dc226fe}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2023 8th International Conference on Image, Vision and Computing (ICIVC)}
+      \field{title}{Eye State Detection Based on EAR and HOG PSO-Support Vector Machine}
+      \field{year}{2023}
+      \field{pages}{414\bibrangedash 418}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICIVC58118.2023.10270738
+      \endverb
+      \keyw{Support vector machine classification;Ear;Feature extraction;Fatigue;Real-time systems;Cognition;Classification algorithms;fatigue detection;eye condition detection;ear;hog characteristics;particle swarm optimization algorithm;support vector machine}
+    \endentry
+    \entry{gopalan2018facial}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=54c3347cdbd33f40c1f399d7342b59de}{%
+           family={Gopalan},
+           familyi={G\bibinitperiod},
+           given={N\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f58abe4b17514c6ab20160ae3f9005e8}{%
+           family={Bellamkonda},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d97036e812f950a8a2afdc354244c3}{%
+           family={Saran\bibnamedelima Chaitanya},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9947b4c084fd58eba9ef0cad6798585}
+      \strng{fullhash}{18381329ec35658bc85c880084d605c4}
+      \strng{bibnamehash}{18381329ec35658bc85c880084d605c4}
+      \strng{authorbibnamehash}{18381329ec35658bc85c880084d605c4}
+      \strng{authornamehash}{f9947b4c084fd58eba9ef0cad6798585}
+      \strng{authorfullhash}{18381329ec35658bc85c880084d605c4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 International Conference on Inventive Research in Computing Applications (ICIRCA)}
+      \field{title}{Facial Expression Recognition Using Geometric Landmark Points and Convolutional Neural Networks}
+      \field{year}{2018}
+      \field{pages}{1149\bibrangedash 1153}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICIRCA.2018.8597226
+      \endverb
+    \endentry
+    \entry{johnston2018review}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebe17af4d7e8fef59cd11a600b127a46}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d209f5c17fba883071d42a8b9cc72f6}{%
+           family={Chazal},
+           familyi={C\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{fullhash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{bibnamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authorbibnamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authornamehash}{13a1a8496b4905adf0d04645549d0cb8}
+      \strng{authorfullhash}{13a1a8496b4905adf0d04645549d0cb8}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J Image Video Proc}
+      \field{title}{A review of image-based automatic facial landmark identification techniques}
+      \field{volume}{86}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1186/s13640-018-0324-4
+      \endverb
+    \endentry
+    \entry{lang2008study}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2cb97e1d6d860e3a66cf8c478f6006e}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e7bbf0d2a2b478896de68e62a4f508f}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{fullhash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{bibnamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authorbibnamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authornamehash}{c192ddad1078bbf3f82b37386ae122e1}
+      \strng{authorfullhash}{c192ddad1078bbf3f82b37386ae122e1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2008 International Conference on Computer Science and Software Engineering}
+      \field{title}{The Study of Driver Fatigue Monitor Algorithm Combined PERCLOS and AECS}
+      \field{year}{2008}
+      \field{pages}{349\bibrangedash 352}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/CSSE.2008.771
+      \endverb
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=030f27faa9c5bd0041804c9a3e10ca4b}{%
+           family={{Liu}},
+           familyi={L\bibinitperiod},
+           given={Guangyu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ba98b57fe1f95279a7b276f87e11088}{%
+           family={{Liu}},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de5eaa5a49bfbf9fa53052763eb59027}{%
+           family={{Dai}},
+           familyi={D\bibinitperiod},
+           given={Licao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{691869fa1c2d9c5b1aa963f22c1ff2ed}
+      \strng{fullhash}{32126a952344520f5331f28b76fafc46}
+      \strng{bibnamehash}{32126a952344520f5331f28b76fafc46}
+      \strng{authorbibnamehash}{32126a952344520f5331f28b76fafc46}
+      \strng{authornamehash}{691869fa1c2d9c5b1aa963f22c1ff2ed}
+      \strng{authorfullhash}{32126a952344520f5331f28b76fafc46}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 2nd International Conference on Electrical Engineering Big Data and Algorithms (EEBDA)}
+      \field{title}{Research on the fatigue detection method of operators in digital main control rooms of nuclear power plants based on multi-feature fusion}
+      \field{year}{2023}
+      \field{pages}{1459\bibrangedash 1463}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEBDA56825.2023.10090719
+      \endverb
+    \endentry
+    \entry{schubach2017imbalance}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4669bb21dd60f00ca338173aa04253f0}{%
+           family={Schubach},
+           familyi={S\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52f8dac550a77b9d33fca02010b8608b}{%
+           family={Re},
+           familyi={R\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13008ba222d50f3b27a60dd519e7a34b}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34cdcf96da4ace6a5d898a6826f304fc}{%
+           family={Valentini},
+           familyi={V\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc747242d69b35766e368c5845165e88}
+      \strng{fullhash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{bibnamehash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{authorbibnamehash}{d2cd125105792246e67d10775e9e02c1}
+      \strng{authornamehash}{cc747242d69b35766e368c5845165e88}
+      \strng{authorfullhash}{d2cd125105792246e67d10775e9e02c1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Imbalance-Aware Machine Learning for Predicting Rare and Common Disease-Associated Non-Coding Variants}
+      \field{volume}{7}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1038/s41598-017-03011-5
+      \endverb
+    \endentry
+    \entry{6907440}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=53a5259a53d3b50e732a5e266c269e35}{%
+           family={Tadesse},
+           familyi={T\bibinitperiod},
+           given={Eyosiyas},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=282bbcf6257efe7edc6061b51a954743}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Weihua},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11964d44883b57444bb39e6c2cee7ad3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Meiqin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e95d413c7b3cccb7d847119ec9c521da}
+      \strng{fullhash}{b64401777d981af558bdf095b20bdea2}
+      \strng{bibnamehash}{b64401777d981af558bdf095b20bdea2}
+      \strng{authorbibnamehash}{b64401777d981af558bdf095b20bdea2}
+      \strng{authornamehash}{e95d413c7b3cccb7d847119ec9c521da}
+      \strng{authorfullhash}{b64401777d981af558bdf095b20bdea2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2014 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Driver drowsiness detection through HMM based dynamic modeling}
+      \field{year}{2014}
+      \field{pages}{4003\bibrangedash 4008}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICRA.2014.6907440
+      \endverb
+      \keyw{Hidden Markov models;Vehicles;Feature extraction;Accuracy;Support vector machines;Face;Heuristic algorithms;Drowsiness detection;facial expression;SVM;HMM}
+    \endentry
+    \entry{tan2018research}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=33376762c80dfed868365183d1e67cfd}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c67619924cd2ecb1e99e1432d09d6dbd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2f2d194c7b103a076a2f3e487e72afd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={G-F},
+           giveni={G\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fd424bf1758b9d35445b538f43dda02}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={G-Z},
+           giveni={G\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2c4aac1430ffcd2403359c5e88dba15}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={J-Y},
+           giveni={J\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232ff2a57e1603642f38dec7224efa97}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60a35715532e04f00b15a8ef7e7149a4}
+      \strng{fullhash}{16327479b15944fcd960c7badf91387a}
+      \strng{bibnamehash}{16327479b15944fcd960c7badf91387a}
+      \strng{authorbibnamehash}{16327479b15944fcd960c7badf91387a}
+      \strng{authornamehash}{60a35715532e04f00b15a8ef7e7149a4}
+      \strng{authorfullhash}{16327479b15944fcd960c7badf91387a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 International Conference on Machine Learning and Cybernetics (ICMLC)}
+      \field{title}{Research On Image Segmentation Based On Support Vector Machine}
+      \field{year}{2018}
+      \field{pages}{650\bibrangedash 655}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICMLC.2018.8526926
+      \endverb
+    \endentry
+    \entry{7545182}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=11012da43e7ab6e4ceab201fc1a0e56e}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jun-Juh},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a46f44cb9d2cc472a0f2bc36993cd4d0}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Hang-Hong},
+           giveni={H\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af3592991b85670b059a5b220bc4c4ff}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Ying-Fan},
+           giveni={Y\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=946ee3d389cf1f743414cf63599015fa}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Teh-Lu},
+           giveni={T\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{82bf970b8e4373f74e49a98008428d58}
+      \strng{fullhash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{bibnamehash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{authorbibnamehash}{1a53194346e30a7bdb28925e049e79bc}
+      \strng{authornamehash}{82bf970b8e4373f74e49a98008428d58}
+      \strng{authorfullhash}{1a53194346e30a7bdb28925e049e79bc}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2016 International Symposium on Computer, Consumer and Control (IS3C)}
+      \field{title}{Real-Time Driver Drowsiness Detection System Based on PERCLOS and Grayscale Image Processing}
+      \field{year}{2016}
+      \field{pages}{243\bibrangedash 246}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IS3C.2016.72
+      \endverb
+      \keyw{Vehicles;Fatigue;Face;Gray-scale;Image edge detection;Data models;Real-time systems;Fatigue model;Template matching;Grayscale image processing;PERCLOS}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

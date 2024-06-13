@@ -1,0 +1,83 @@
+\chapter{PENDAHULUAN}
+\label{chap:pendahuluan}
+% Ubah bagian-bagian berikut dengan isi dari pendahuluan
+
+\section{Latar Belakang}
+\label{sec:latarbelakang}
+Dalam upaya meningkatkan keselamatan dan efisiensi dalam berbagai aktivitas sehari-hari, khususnya yang berkaitan dengan operasi kendaraan dan pekerjaan yang membutuhkan konsentrasi tinggi, deteksi kantuk menjadi sebuah penelitian yang krusial. Kondisi kantuk yang seringkali diabaikan dalam manajemen risiko, memiliki dampak yang signifikan terhadap kemampuan individu untuk melakukan tugas dengan aman dan efektif. Di tengah tantangan ini, muncul berbagai metode dan teknologi untuk mengidentifikasi tanda-tanda awal kelelahan Pentingnya klasifikasi tingkat kantuk sebagai langkah tambahan dalam proses deteksi kantuk tentunya akan meningkatkan akurasi deteksi secara signifikan. Hal ini juga penting karena memungkinkan implementasi respons yang tepat dan terukur, sesuai dengan tingkat risiko yang ditimbulkan oleh kondisi kantuk tersebut.
+
+Untuk dapat mendeteksi kantuk, tentunya diperlukan citra wajah objek manusia yang kemudian digunakan sebagai parameter untuk mendeteksi kantuk. Ada beberapa parameter atau indikator yang dapat digunakan sebagai indikasi awal bahwa seseorang sedang mengalami kantuk. Salah satunya adalah dengan menggunakan PERCLOS. Metode ini berfokus pada
+analisis proporsi waktu di mana kelopak mata tertutup sebagian atau seluruhnya selama periode tertentu. Secara khusus, PERCLOS mengukur persentase waktu di mana kelopak mata seseorang tertutup lebih dari 80\% selama interval waktu tertentu. Terdapat penelitian klasifikasi tingkat kantuk yang dilakukan oleh Kharismael (2022). Kharismael menggunakan PERCLOS untuk mendeteksi kantuk dan melakukan klasifikasi dengan menggunakan deep learning. Hasilnya, didapatkan tingkat akurasi sebesar 86\% dengan menggunakan metode oversampling dan 65\% akurasi dengan menggunakan data undersampling.
+
+Selain itu, kantuk juga dapat dideteksi dengan menggunakan indikator mulut. MAR atau Mouth Aspect Ratio mengukur aspek rasio mulut berdasarkan lebar dan tinggi bukaan mulut, yang cenderung meningkat saat seseorang menguap dan mengantuk. (Geetavani et al., 2021) melakukan penelitian dengn mengkombinasikan EAR dan MAR/MOR secara bersamaan untuk mendeteksi kantuk seseorang. Geetavani dkk menggunakan 4 kelas untuk pengklasifikasian. mata tertutup, mata terbuka, mata tertutup mulut lebar, dan mata terbuka mulut tertutup. Ia menggunakan treshold untuk menentukan apakah objek sedang mengalami kondisi 1,2,3,atau 4. Hasilnya, didapatkan akurasi sebesar 85\% dengan menggunakan Bayesian Classifier untuk mengklasifikasikan tingkat kantuk yang dideteksi.
+
+Nilai akurasi ini tentunya tidak hanya dipengaruhi oleh indikator kantuk yang ditangkap dari objek. Faktor lainnya yang dapat mempengaruhi akurasi adalah cara pengolahan data yang didapatkan dan kemudian diklasifikasikan. Teknik pengolahan data yang digunakan pada penelitian sebelumnya merupakan teknik yang sudah cukup umum digunakan. Saat ini sudahbanyak metode yang dapat digunakan untuk mengolah data, Salah satunya adalah Support Vector Machine. SVM adalah model pembelajaran mesin yang digunakan untuk klasifikasi. Cara kerja SVM adalah dengan mengoptimalkan margin, yaitu jarak antara hyperplane yang memisahkan kelas-kelas tersebut dan titik data terdekat dari masing-masing kelas, yang disebut sebagai vektor dukungan (support vectors). SVM mencari untuk memaksimalkan margin ini untuk meningkatkan akurasi klasifikasi dan memberikan generalisasi yang lebih baik pada data yang belum pernah dilihat sebelumnya. 
+
+Penggunaan satu indikator dalam deteksi kantuk, seperti PERCLOS, telah terbukti memberikan tingkat akurasi yang cukup tinggi dalam mengidentifikasi tanda-tanda kelelahan. Namun, ketika dua indikator atau lebih digunakan secara bersamaan—misalnya EAR bersama
+dengan MAR atau MOR,hasil yang diperoleh sangat dekat dengan hasil menggunakan PERCLOS saja. Hal ini tentunya menunjukkan Apabila digunakan 2 indikator kantuk dan dengan metode pengolahan data yang tepat untuk pengklasifikasian, maka akan meningkatkan akurasi hasil deteksi. Penggunaan Support Vector Machine (SVM), dapat membantu untuk meningkatkan akurasi. Dengan kemampuan SVM untuk mengklasifikasi data kompleks dan memberikan generalisasi yang kuat, khususnya saat dihadapkan pada dataset berdimensi tinggi pengintegrasian metode ini dapat menghasilkan tingkat akurasi yang lebih tinggi. 
+
+Melalui penggabungan antara teknik pengukuran yang tepat dan algoritma pembelajaran mesin yang kuat, tentunya akan didapatkan hasil yang akurat juga. Hal Ini membuka jalan bagi penciptaan sistem keselamatan yang lebih responsif dan adaptif, yang dapat berdampak signifikan dalam mengurangi risiko yang berkaitan dengan kantuk.
+
+\section{Permasalahan}
+\label{sec:permasalahan}
+
+Berdasarkan hal yang telah dipaparkan di latar belakang,penggunaan satu indikator kantuk untuk mendeteksi dan mengklasifikasikan perilaku seseorang sedang mengalami kantuk atau tidak dirasa masih kurang optimal. Selain itu, penggunaan metode pengolahan data yang
+tepat tentunya juga akan mempengaruhi hasil akurasi klasifikasi kantuk. Oleh karena itu, diperlukan model klasifikasi kantuk yang menggunakan penggabungan dua indikator kantuk serta metode pengolahan data yang memiliki tingkat akurasi tinggi untuk menghasilkan deteksi dan klasifikasi kantuk yang lebih akurat.
+
+\section{Tujuan}
+\label{sec:Tujuan}
+
+Tujuan akhir dari penelitian ini adalah untuk mengoptimalkan penggunaan deteksi kantuk dengan menggunakan klasifikasi karolinska berdasarkan nilai bukaan mata dan nilai bukaan mulut dan Support Vector Machine.
+
+\section{Batasan Masalah}
+\label{sec:batasanmasalah} 
+Batasan masalah pada penelitian ini adalah sebagai berikut :
+
+\begin{enumerate}
+  \item Hasil akhir penelitian bersifat model prediksi, belum untuk diterapkan secara real-time.
+
+
+  \item Subjek yang digunakan pada dataset penelitian merupakan etnis Eropa atau Kaukasian dimana bentuk mata yang dimiliki berbeda dengan bentuk mata etnis lainnya.
+
+
+  \item Dataset yang digunakan menggunakan dataset DROZY dan UTA-RLDD sebagai alat pengujian.
+
+\end{enumerate}
+
+\section{Sistematika Penulisan}
+\label{sec:sistematikapenulisan}
+
+Berikut adalah sistematika penulisan yang disusun untuk penelitian tugas akhir ini:
+
+\begin{enumerate}[nolistsep]
+
+  \item \textbf{BAB I Pendahuluan}
+
+  Bab ini berisi latar belakang penelitian, tujuan, permasalahan, dan batasan masalah yang dihadapi dalam penelitian. Juga dijelaskan pentingnya penelitian ini dalam konteks aplikasi nyata serta metode yang digunakan untuk mengatasi masalah yang ada.
+
+        \vspace{2ex}
+
+  \item \textbf{BAB II Tinjauan Pustaka}
+
+  Bab ini berisi ulasan tentang penelitian terdahulu yang relevan dengan topik yang diangkat. Tinjauan pustaka mencakup teori dan konsep dasar yang mendukung penelitian, termasuk metode-metode yang digunakan sebelumnya dan hasil yang diperoleh.
+
+
+        \vspace{2ex}
+
+  \item \textbf{BAB III Desain dan Implementasi Sistem}
+
+  Bab ini menjelaskan metodologi yang digunakan dalam penelitian, termasuk desain sistem, pengumpulan dan pengolahan data, serta implementasi model. Juga dijelaskan teknik dan alat yang digunakan untuk analisis data serta proses pelatihan model.
+
+        \vspace{2ex}
+
+  \item \textbf{BAB IV Hasil dan Analisis}
+
+  Bab ini berisi hasil pengujian sistem yang telah diimplementasikan. Analisa data dilakukan untuk mengevaluasi kinerja model, serta mendiskusikan hasil yang diperoleh dari berbagai uji coba yang dilakukan. Kesimpulan dari hasil analisa juga disertakan.
+
+        \vspace{2ex}
+
+  \item \textbf{BAB V Penutup}
+
+  Bab ini berisi kesimpulan dari penelitian yang telah dilakukan dan saran untuk penelitian lebih lanjut. Kesimpulan mencakup ringkasan dari hasil yang diperoleh serta rekomendasi untuk pengembangan di masa depan.
+
+\end{enumerate}
